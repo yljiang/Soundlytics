@@ -90,11 +90,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/logo.png" alt="">
                     <div class="intro-text">
                         <span class="name">Soundlytics</span>
                         <hr class="star-light">
-                        <span class="skills">Describe what this thing does...</span>
+                        <span class="skills">SoundLytics is an environmental analytic system created during UofTHacks. Population presence or density of an area is recorded through the use of sensors and the data is used for various purposes, in order to increase social benefit.</span>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Analytics</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -121,6 +121,14 @@
                         <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
                     </a>
                 </div>
+                
+                <div class="col-sm-4 portfolio-item">
+                    <p class="description"> Blah Blah</p>
+                </div>
+                
+            </div>
+            
+            <div class="row">
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -131,16 +139,13 @@
                         <img src="img/portfolio/cake.png" class="img-responsive" alt="">
                     </a>
                 </div>
+                
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                    </a>
+                    <p class="description"> Blah Blah Blah Blah Blah BlahBlah BlahBlah BlahBlah Blah</p>
                 </div>
+            </div>
+                
+            <div class="row">
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -151,27 +156,12 @@
                         <img src="img/portfolio/game.png" class="img-responsive" alt="">
                     </a>
                 </div>
+                
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
-                    </a>
+                    <p class="description"> Blah Blah</p>
                 </div>
             </div>
+                
         </div>
     </section>
 
@@ -186,14 +176,14 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>SoundLytics is an environmental analytic system created during UofTHacks. Population presence or density of an area is recorded through the use of sensors and the data is used for various purposes, in order to increase social benefit.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p> Analytics collected are presented in graphs and Students can use the data  to find the most optimal study location, or a homeless person in need of shelter can be detected and lead to a nearby homeless shelter. </p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
+                     Request an Invite
                     </a>
                 </div>
             </div>
@@ -262,7 +252,7 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <p>University of Toronto</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
@@ -285,7 +275,7 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
+                        <h3>About SoundLytics</h3>
                         <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
                     </div>
                 </div>
@@ -295,7 +285,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2014
+                        Copyright &copy; SoundLytics 2014
                     </div>
                 </div>
             </div>
