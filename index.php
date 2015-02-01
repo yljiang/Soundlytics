@@ -122,9 +122,9 @@
                     </a>
                 </div>
                 
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-6 portfolio-item">
                     <p class="description"> <h4>Powerful Analytics</h4>
-                    BLAH BLAH BLAH
+                    The analytical data can be used in order to determine the time and location at which most people are present at a certain area. This has various applications such as finding least crowded areas in a library, and finding most frequented areas in a retail establishment.
                     </p>
                 </div>
                 
@@ -142,9 +142,9 @@
                     </a>
                 </div>
                 
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-6 portfolio-item">
                     <p class="description"> <h4>Map</h4>
-                    Blah Blah Blah Blah Blah BlahBlah BlahBlah BlahBlah Blah</p>
+                    Temperature can be plotted relative to the number of people in order to determine the most optimal temperatures at which people are comfortable in an environment.</p>
                 </div>
             </div>
                 
@@ -160,7 +160,7 @@
                     </a>
                 </div>
                 
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-6 portfolio-item">
                     <p class="description"> <h4>Mobile Capatible</h4>
                 
                     </p>
