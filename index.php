@@ -144,7 +144,7 @@
                 
                 <div class="col-sm-6 portfolio-item">
                     <p class="description"> <h4>Map</h4>
-                    Temperature can be plotted relative to the number of people in order to determine the most optimal temperatures at which people are comfortable in an environment.</p>
+                   Through innovative heat mapping technology, our users are able to pinpoint locations of high and low consumer traffic in any supported SoundLytics environment. Accordingly, vendors are able to strategically expand and establish their product, while students are able to locate their solitary study space.</p>
                 </div>
             </div>
                 
@@ -162,7 +162,7 @@
                 
                 <div class="col-sm-6 portfolio-item">
                     <p class="description"> <h4>Mobile Capatible</h4>
-                
+                        SoundLytics’ mobile application permits customers to view important information even on the go. Users are always prepared to make informative decisions beforehand.
                     </p>
                 </div>
             </div>
