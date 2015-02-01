@@ -106,7 +106,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Analytics</h2>
+                    <h2>Simple Flexible Versatile</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -118,12 +118,14 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="img/graph.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 
                 <div class="col-sm-4 portfolio-item">
-                    <p class="description"> Blah Blah</p>
+                    <p class="description"> <h4>Powerful Analytics</h4>
+                    BLAH BLAH BLAH
+                    </p>
                 </div>
                 
             </div>
@@ -136,12 +138,13 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="img/heatmap.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 
                 <div class="col-sm-4 portfolio-item">
-                    <p class="description"> Blah Blah Blah Blah Blah BlahBlah BlahBlah BlahBlah Blah</p>
+                    <p class="description"> <h4>Map</h4>
+                    Blah Blah Blah Blah Blah BlahBlah BlahBlah BlahBlah Blah</p>
                 </div>
             </div>
                 
@@ -153,12 +156,14 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
+                        <img style="padding-left:90px;"src="img/ipad.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 
                 <div class="col-sm-4 portfolio-item">
-                    <p class="description"> Blah Blah</p>
+                    <p class="description"> <h4>Mobile Capatible</h4>
+                
+                    </p>
                 </div>
             </div>
                 
@@ -190,8 +195,9 @@
         </div>
     </section>
 
+
     <!-- Contact Section -->
-    <section id="contact">
+<!--    <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -200,10 +206,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
+                <div class="col-lg-8 col-lg-offset-2"> -->
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                    <form name="sentMessage" id="contactForm" novalidate>
+    <!--                <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
@@ -243,7 +249,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Footer -->
     <footer class="text-center">
@@ -252,7 +258,9 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>University of Toronto</p>
+                        <p>Bahen Centre for Information Technology - BA. 
+                            40 St. George Street 
+                            Toronto, ON Canada M5S 2E4</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
@@ -276,7 +284,7 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>About SoundLytics</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <p>SoundLytics is an environmental analytic system created during UofTHacks. </p>
                     </div>
                 </div>
             </div>
